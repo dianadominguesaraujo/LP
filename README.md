@@ -1,5 +1,5 @@
 # LP
-Lógica e Programação
+Lógica de Programação
 
 Repositório criado para registrar minha evolução no estudo de lógica de programação, algoritmos e linguagem C.
 
